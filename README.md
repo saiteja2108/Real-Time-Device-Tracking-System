@@ -1,6 +1,6 @@
 Here is the README code for your **Real-Time Device Tracking System** project:  
 
-```markdown
+markdown
 # Real-Time Device Tracking System
 
 ## Overview
@@ -30,11 +30,10 @@ The Real-Time Device Tracking System provides dynamic visualization of device lo
 ### Prerequisites
 - Node.js and npm installed on your system.
 
-### Steps
+#Steps
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/realtime-device-tracking.git
-   ```
 2. **Navigate to the Project Directory:**
    ```bash
    cd realtime-device-tracking
