@@ -85,8 +85,4 @@ For any queries or suggestions, feel free to contact:
 - **Author:** A V S Sai Teja
 - **Email:** saiteja00121@gmail.com
 
----
-This README provides a complete guide to understanding, setting up, and running the Real-Time Device Tracking System.
-```
 
-Let me know if you need to adjust or enhance specific sections!
