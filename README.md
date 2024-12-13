@@ -1,6 +1,4 @@
-Here is the README code for your **Real-Time Device Tracking System** project:  
 
-markdown
 # Real-Time Device Tracking System
 
 ## Overview
